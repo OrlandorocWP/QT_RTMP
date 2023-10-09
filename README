@@ -1,0 +1,27 @@
+先编译运行工程，可在widget.cpp中81～85行修改默认推流地址
+
+界面含有4个QFrame控件，3个QlineEdit，3个QPushButton
+
+第一个为默认定义推流源rtmp://10.7.178.110:9090/live
+
+其余3个初始播放也为rtmp://10.7.178.110:9090/live
+
+可在每个frame下方的lineEdit中输入目标推流，点击其后方的按钮Turn to转到相应推流。
+
+点击相应frame可以控制放大/缩小。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+orlandoroc@163.com
